@@ -18,7 +18,7 @@
 
  ### Demonstração
  
-<p align='center'> <img src= '/gif.DevFreela'</p></p>
+<p align='center'> <img src= '/gif.DevFreela.gif'</p></p>
  
 ### Tecnologias
 
