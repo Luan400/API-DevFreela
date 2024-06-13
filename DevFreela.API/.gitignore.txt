@@ -1,0 +1,9 @@
+﻿# Resultados da construção
+[Bb]in/
+[Oo]bj/
+# Rider
+.idea/
+# Arquivos específicos do usuário
+*.rsuser
+*.suo
+*.user
