@@ -38,6 +38,7 @@ Tecnologias e práticas utilizadas
 </div>
 
 <div>
+ <h1> Funcionalidades</h1>
  <ul>
   <li>Cadastro, Listagem, Detalhes, Atualização e Remoção de Projetos</li>
    <li>Início e Cancelamento de Projetos</li>
