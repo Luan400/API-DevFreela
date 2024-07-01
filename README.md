@@ -22,7 +22,7 @@
  
 ### Tecnologias
 
-Tecnologias e práticas utilizadas
+<h1>Tecnologias e práticas utilizadas</h1>
 
 <div>
 <ul>
