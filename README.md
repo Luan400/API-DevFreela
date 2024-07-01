@@ -5,13 +5,13 @@
   <a href='https://www.instagram.com/luanbortoleto/'><img alt='Luan Bortoleto [Instagram]' src='/iconinsta.jpg' width=20px></a>
   </p>
   
-  <p align="center"> Este projeto foi feito atraves dos conhecimentos de C#, ASP.NET core, .NET.
+  <p align="center"> API REST completa de um sistema de projetos freelancer 
  </p>
  
  <p align='center'>
  <a href= '#demonstração'> Demonstração </a> &nbsp;&nbsp;|&nbsp;&nbsp;
  <a href= '#autor'> Autor </a> &nbsp;&nbsp;|&nbsp;&nbsp;
- <a href= '#tecnologias'> Tecnologias </a> &nbsp;&nbsp;|&nbsp;&nbsp;
+ <a href= '#tecnologias'> Tecnologias e Funcionalidades </a> &nbsp;&nbsp;|&nbsp;&nbsp;
  </p>
  
 
@@ -22,14 +22,29 @@
  
 ### Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+Tecnologias e práticas utilizadas
 
 <div>
 <ul>
-<li>C#</li>
-<li>ASP.NET core</li>
-<li>.NET</li>
+<li>ASPT.NET Core com .NET</li>
+<li>Arquitetura limpa</li>
+<li>Entity Framework Core</li>
+ <li>CQRS</li>
+ <li>Padrão Repository</li>
+ <li>Validação de APIs</li>
+ <li>Teste Unitários</li>
+ <li>Mensageria com RabbitMQ</li>
 </ul>
+</div>
+
+<div>
+ <ul>
+  <li>Cadastro, Listagem, Detalhes, Atualização e Remoção de Projetos</li>
+   <li>Início e Cancelamento de Projetos</li>
+   <li>Cadastro de comentários em Projetos</li>
+   <li>Cadastro, Detalhes e Login de Usuários</li>
+  <li>Métodos de Pagamento</li>
+ </ul>
 </div>
  
  # Autor 
