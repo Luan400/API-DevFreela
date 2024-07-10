@@ -148,3 +148,4 @@ C:\Users\Luan\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\MediatR.dll
 C:\Users\Luan\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Users\Luan\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Luan\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Luan\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\RabbitMQ.Client.dll
